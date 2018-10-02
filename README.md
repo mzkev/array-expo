@@ -1,5 +1,5 @@
 # array-expo
-personal opensource with @codeekage
+personal opensource
 
 
 ## pro
